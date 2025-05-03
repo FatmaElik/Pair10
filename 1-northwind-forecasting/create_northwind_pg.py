@@ -4,7 +4,7 @@ import pandas as pd
 from sqlalchemy import create_engine, text
 
 # 1) Engine’ini oluştur
-DB_URI = "postgresql://postgres:fatma@localhost:5432/GYK1Northwind"
+DB_URI = "postgresql://user:aaa@localhost:000/Northwind_Database"
 engine = create_engine(DB_URI)
 
 def load_customer_snapshots():
