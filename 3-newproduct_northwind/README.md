@@ -90,7 +90,3 @@ Model şunları kullanır:
 - Sınıf dengesizliğini gidermek için SMOTE
 - Özellik normalizasyonu için StandardScaler
 - Sigmoid aktivasyonlu ikili sınıflandırma
-
-## Lisans
-
-[Lisans bilgilerinizi buraya ekleyin] 
